@@ -32,8 +32,7 @@ header{
     border-bottom: 2px solid #fff;
     height: 160px;
 }
-header h1, header h2{
-    color: ;
+header h1, header h2{    
     font-size: 1.5em;
     width: 90%;
     margin: 10px auto;
@@ -44,7 +43,7 @@ h2 {
 	color :  #004d6d;
 }
 
-/* Style all font awesome icons */
+/* Style et police icones  */
 .fa {
   padding: 10px;
   font-size: 28px;
@@ -53,12 +52,12 @@ h2 {
   text-decoration: none;
 }
 
-/* Add a hover effect if you want */
+/* J'ajoute un effet   */
 .fa:hover {
   opacity: 0.7;
 }
 
-/* Set a specific color for each brand */
+/* couleur spécifique pour chaque RS */
 
 /* Facebook */
 .fa-facebook {
@@ -75,7 +74,6 @@ h2 {
 
 
 
-}
 
 footer{
     border-top: 2px solid #fff;
